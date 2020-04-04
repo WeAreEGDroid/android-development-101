@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <!--    <EditText-->
+    <!--        android:id="@+id/user_name_ET"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginLeft="50dp"-->
+    <!--        android:layout_marginTop="50dp"-->
+    <!--        android:layout_marginRight="50dp"-->
+    <!--        android:layout_marginBottom="20dp"-->
+    <!--        android:hint="Username" />-->
+
+    <!--    <EditText-->
+    <!--        android:id="@+id/password_ET"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginLeft="50dp"-->
+    <!--        android:layout_marginRight="50dp"-->
+    <!--        android:hint="Password"-->
+    <!--        android:inputType="textPassword" />-->
+
+    <!--    <Button-->
+    <!--        android:id="@+id/nav_btn"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginLeft="50dp"-->
+    <!--        android:layout_marginTop="20dp"-->
+    <!--        android:layout_marginRight="50dp"-->
+    <!--        android:layout_marginBottom="20dp"-->
+    <!--        android:text="Navigate" />-->
+
+    <!--    <Button-->
+    <!--        android:id="@+id/call_btn"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginLeft="50dp"-->
+    <!--        android:layout_marginTop="20dp"-->
+    <!--        android:layout_marginRight="50dp"-->
+    <!--        android:layout_marginBottom="20dp"-->
+    <!--        android:text="Call" />-->
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="20dp"
+        android:text="Login" />
+
+    <Button
+        android:id="@+id/signUpBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="20dp"
+        android:text="Sign up" />
+
+
+</LinearLayout>
