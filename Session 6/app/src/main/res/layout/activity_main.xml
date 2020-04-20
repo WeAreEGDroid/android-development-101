@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/selectBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get All" />
+
+    <Button
+        android:id="@+id/updateBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="update" />
+
+    <Button
+        android:id="@+id/insertBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Insert" />
+
+    <Button
+        android:id="@+id/deleteBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete" />
+
+
+    <Button
+        android:id="@+id/insert_shared_prefs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Insert Prefs." />
+
+
+    <Button
+        android:id="@+id/get_shared_prefs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GET Prefs." />
+
+    <Button
+        android:id="@+id/delete_shared_prefs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete Shared Prefs." />
+</LinearLayout>
