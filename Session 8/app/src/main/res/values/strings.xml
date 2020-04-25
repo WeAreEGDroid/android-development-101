@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">EgDroid</string>
+
+
+    <string name="btn_text">Hello</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="default_notification_channel_id">main_channel</string>
+</resources>
