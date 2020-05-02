@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239074961602",
+    "firebase_url": "https://egdroid-c6983.firebaseio.com",
+    "project_id": "egdroid-c6983",
+    "storage_bucket": "egdroid-c6983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239074961602:android:1596377fdae395e59af35b",
+        "android_client_info": {
+          "package_name": "com.yehia.buseet.egdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239074961602-cu45u3a9nkhnakfiv7jahcf5pr1idse8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWS4OfKguXKs-NGj-Zb5dg2Wzc0yPxJZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239074961602-cu45u3a9nkhnakfiv7jahcf5pr1idse8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
